@@ -5,7 +5,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM public.\"users\" LIMIT 10;",
+      "body": "SELECT * FROM public.\"users\" LIMIT 9;",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -22,6 +22,7 @@
       "name": "Users",
       "pluginId": "postgres-plugin"
     },
+    "dynamicBindingPathList": [],
     "executeOnLoad": true,
     "name": "Query2",
     "pageId": "Page1",
