@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 28,
+  "boxShadow": "none",
+  "defaultImage": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "https://assets.appsmith.com/appsmith-favicon-orange.ico",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "zttxm9fwyl",
+  "leftColumn": 44,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 15,
+  "mobileLeftColumn": 5,
+  "mobileRightColumn": 17,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "objectFit": "contain",
+  "parentColumnSpace": 11.875,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 56,
+  "topRow": 16,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "g1fpwl1nlx",
+  "widgetName": "Image1Copy"
+}
